@@ -1,0 +1,25 @@
+{
+  "name": "list-require",
+  "version": "0.0.1",
+  "description": "List all dependencies which require by the file recursively.",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha ./test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Lellansin/node-list-require.git"
+  },
+  "keywords": [
+    "require",
+    "list-require",
+    "tree require",
+    "require tree"
+  ],
+  "author": "Lellansin",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Lellansin/node-list-require/issues"
+  },
+  "homepage": "https://github.com/Lellansin/node-list-require"
+}
